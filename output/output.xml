@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<EloMaluco>
+    <EstadoAtual>
+        <row>
+            <col>vmm</col>
+            <col>vrm</col>
+            <col>vzo</col>
+            <col>ams</col>
+        </row>
+        <row>
+            <col>brs</col>
+            <col>vri</col>
+            <col>amm</col>
+            <col>vrs</col>
+        </row>
+        <row>
+            <col>vrm</col>
+            <col>vmm</col>
+            <col>bri</col>
+            <col>ami</col>
+        </row>
+        <row>
+            <col>vms</col>
+            <col>vmi</col>
+            <col>brm</col>
+            <col>amm</col>
+        </row>
+    </EstadoAtual>
+</EloMaluco>
